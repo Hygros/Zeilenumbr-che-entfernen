@@ -1,4 +1,4 @@
-# Zeilenumbruch-entfernen
+# Zeilenumbruch entfernen
 
 Mit diesem kleinen Tool können Zeilenumrüche entfernt werden.
 1. Text z.B. von PDF kopieren
